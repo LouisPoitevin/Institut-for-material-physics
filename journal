@@ -1,0 +1,21 @@
+28/05/24 :
+first hand on experiment. 
+sample --> Titanium Chromium
+            already polished, cleaned on polishing paper 1µm ø 
+
+Software : 
+  PSTrace
+
+experiment setup : 
+  - counter electrod --> palladium wire
+  - reference electrode --> potassium chloride solution/silver chloride
+  - working electrode --> sample
+  - solution --> PBS (phosphate buffered saline)
+  - study temperature --> 37.5°C - control by thermostat
+
+measures : 
+  - open circuit potential determination
+  - electrochemical impedance spectroscopy (0.1Hz --> 10,000Hz | E_dc = -0.360V | E_ac = 0.01V)
+  - polarization curve (E_corr ~ -0.363V)
+  - electrochemical impedance spectroscopy (0.1Hz --> 10,000Hz | E_dc = -0.234V | E_ac = 0.01V)
+  - polarization curve
