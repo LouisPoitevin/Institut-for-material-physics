@@ -19,3 +19,30 @@ measures :
   - polarization curve (E_corr ~ -0.363V)
   - electrochemical impedance spectroscopy (0.1Hz --> 10,000Hz | E_dc = -0.234V | E_ac = 0.01V)
   - polarization curve
+
+04/06/2024 :
+preparation of samples.
+
+• Ti12Cr3Sn - Additive Manufactured - Laser Powder Bed Fusion
+• Ti12Cr - Additive Manufactured - Laser Powder Bed Fusion
+• Ti6Al4V - Cold Rolled Recrystallized - (control group - 3 pieces)
+• Ti12Cr3Sn - Cold Rolled - quenched at room temperature 1h annealed at 800°C - (2 pieces)
+• Pure Ti - (1 Disc)
+
+
+Samples experiments : XPS measurements and Electrochemistry
+- AM LPBF ==> grind sides 
+- CR QRT ==> prepared 3/4 samples, 3mm thick (cut with isomet 5000 - warp faces - check for classification of the material) 
+
+Cutting parameters : 
+4000rpm | 1.2mm/min | blade thickness : 0.685 mm
+
+Polishing : 
+done -> 4 times at P600 to create new flat surface.
+new protocol : 
+            - create new surface with P360
+            - polish P600/P2000 etc
+
+Control of surface quality : 
+            optic microscope + polarizer
+
